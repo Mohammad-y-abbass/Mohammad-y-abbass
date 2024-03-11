@@ -52,7 +52,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+  https://github-readme-stats.vercel.app/api?username=Mohammad-y-abbass&show_icons=true&theme=radical
 </div>
 
 <br/><br/>
