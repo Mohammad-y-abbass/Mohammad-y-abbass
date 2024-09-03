@@ -10,7 +10,7 @@ Recent graduate with 1 year of experience in software development, passionate ab
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-abbass/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abbass/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4.svg?logo=vercel&logoColor=white)](https://mohammad-abbass-portfolio.vercel.app/)  
 
 # 💻 Tech Stack:
