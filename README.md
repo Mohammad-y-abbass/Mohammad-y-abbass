@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4.svg?logo=vercel&logoColor=white)](https://mohammad-abbass-portfolio.vercel.app/)  
 
 # 💻 Tech Stack:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center">  
    <a href="https://github.com/">  
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  
   </a>  
