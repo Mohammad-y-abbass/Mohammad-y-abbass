@@ -13,6 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4.svg?logo=vercel&logoColor=white)](https://mohammad-abbass-portfolio.vercel.app/)  
 
 # 💻 Tech Stack:
+<div style="display: flex">
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)  
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)  
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
@@ -34,6 +35,7 @@
   [![Playwright](https://img.shields.io/badge/playwright-2E8B57?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)  
   [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
   [![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohammad-y-abbass&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
