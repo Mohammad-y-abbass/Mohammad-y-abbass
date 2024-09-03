@@ -14,9 +14,12 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">  
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-abbass/">  
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">  
+   <a href="https://github.com/">  
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  
   </a>  
+  <a href="https://git-scm.com/">  
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">  
+  </a>   
   <!-- Front-end -->  
   <a href="https://www.w3schools.com/html/">  
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
