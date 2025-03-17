@@ -53,19 +53,10 @@ Recent graduate with 1 year of experience in software development, passionate ab
   <a href="https://spring.io/projects/spring-boot">  
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">  
   </a>  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">  
-    <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">  
-  </a>  
-  <a href="https://dotnet.microsoft.com/">  
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">  
-  </a>  
 
   <!-- Databases -->  
   <a href="https://www.mongodb.com/">  
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">  
-  </a>  
-  <a href="https://www.sqlite.org/">  
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">  
   </a>  
   <a href="https://www.mysql.com/">  
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">  
