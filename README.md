@@ -6,12 +6,11 @@
 
 # 💫 About Me:
 Recent graduate with 1 year of experience in software development, passionate about building innovative solutions and collaborating with others to drive growth and excellence. Proficient in a range of technologies, including front-end and back-end development, databases, and testing. Excited to continue learning and growing as a professional, and looking for opportunities to apply my skills and knowledge to make a meaningful impact.
-<br>🔭 I'm currently developing a new programming language as my senior university project. Additionally, I'm building a website for a big data specialist community using Next.js and Spring boot.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abbass/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4.svg?logo=vercel&logoColor=white)](https://mohammad-abbass-portfolio.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4.svg?logo=vercel&logoColor=white)](https://mohammad-abbas-portfolio.vercel.app/)  
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center">  
