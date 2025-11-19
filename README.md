@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Mo, a full-stack developer with over one year of experience building web applications and backend services.<br>I’m passionate about understanding how software works at a deeper level, and right now I’m expanding into systems programming and backend architecture.<br><br>🔧 What I Do<br><br>Full-stack development (frontend + backend)<br><br>Learning how databases, runtimes, and lower-level systems function<br><br>🎯 Current Goals<br><br>Strengthen my backend and system design skills<br><br>Build foundational projects in systems programming<br><br>Contribute to open-source as I learn
+Hi, I’m Mohammad, a full-stack developer with over one year of experience building web applications and backend services.<br>I’m passionate about understanding how software works at a deeper level, and right now I’m expanding into systems programming and backend architecture.<br><br>🔧 What I Do<br><br>Full-stack development (frontend + backend)<br><br>Learning how databases, runtimes, and lower-level systems function<br><br>🎯 Current Goals<br><br>Strengthen my backend and system design skills<br><br>Build foundational projects in systems programming<br><br>Contribute to open-source as I learn
 
 
 ## 🌐 Socials:
